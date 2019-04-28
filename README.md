@@ -1,2 +1,3 @@
-# links-uteis-R
-This is my repository for store some links useful for my learn.
+# Useful links for learning
+
+This is a repository for store some useful links for learning R.
