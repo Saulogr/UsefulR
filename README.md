@@ -25,3 +25,5 @@ This is a repository for store some useful links for learning R.
 
 [Text Mining with R](https://www.tidytextmining.com/)
 
+[Think Stats](http://greenteapress.com/thinkstats2/html/index.html)
+
