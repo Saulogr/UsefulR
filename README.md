@@ -1,5 +1,5 @@
 # Useful links for learning
-## Work in process (This file is still being edited).
+## Work in progress (This file is still being edited).
 
 This is a repository for store some useful links for learning R.
 
