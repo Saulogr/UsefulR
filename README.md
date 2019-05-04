@@ -27,3 +27,15 @@ This is a repository for store some useful links for learning R.
 
 [Think Stats](http://greenteapress.com/thinkstats2/html/index.html)
 
+
+# Databases
+
+[World Economic Outlook Database](https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/index.aspx)
+
+# Database tools
+
+[Designer database: Vertabelo](https://www.vertabelo.com)
+
+[Star schema](https://rafaelpiton.com.br/blog/data-warehouse-star-schema/)
+
+![Star Schema Template](C:\Users\saulo\Documents\GitHub\UsefulR\img\starschema.gif)
