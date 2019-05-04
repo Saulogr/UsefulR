@@ -38,4 +38,4 @@ This is a repository for store some useful links for learning R.
 
 [Star schema](https://rafaelpiton.com.br/blog/data-warehouse-star-schema/)
 
-![Star Schema Template](C:\Users\saulo\Documents\GitHub\UsefulR\img\starschema.gif)
+![Star Schema Template](https://github.com/Saulogr/UsefulR/blob/master/img/starschema.gif)
