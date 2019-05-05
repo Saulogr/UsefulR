@@ -39,3 +39,17 @@ This is a repository for store some useful links for learning R.
 [Star schema](https://rafaelpiton.com.br/blog/data-warehouse-star-schema/)
 
 ![Star Schema Template](https://github.com/Saulogr/UsefulR/blob/master/img/starschema.gif)
+
+# Machine Learning
+
+[Top 10 algorithms](https://www.semantix.com.br/blog/10-algoritmos-de-machine-learning)
+
+# We scraping
+
+## Extract data from Twitter
+
+[Article 1](https://www.ibpad.com.br/blog/comunicacao-digital/capturando-dados-do-twitter-com-r/)
+
+[Article 2](https://squarelabs.com.br/2018/03/09/analise-de-dados-em-tweets-utilizando-r/)
+
+[Article 3](http://data7.blog/mapeando-seguidores-do-twitter-usando-o-r/)
