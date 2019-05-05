@@ -44,9 +44,9 @@ This is a repository for store some useful links for learning R.
 
 [Top 10 algorithms](https://www.semantix.com.br/blog/10-algoritmos-de-machine-learning)
 
-# We scraping
+# Web scraping
 
-## Extract data from Twitter
+## To Extract data from Twitter
 
 [Article 1](https://www.ibpad.com.br/blog/comunicacao-digital/capturando-dados-do-twitter-com-r/)
 
