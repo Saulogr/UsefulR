@@ -27,6 +27,7 @@ This is a repository for store some useful links for learning R.
 
 [Think Stats](http://greenteapress.com/thinkstats2/html/index.html)
 
+[Writing R Extensions](https://cran.r-project.org/doc/manuals/r-release/R-exts.html)
 
 # Databases
 
@@ -44,12 +45,40 @@ This is a repository for store some useful links for learning R.
 
 [Top 10 algorithms](https://www.semantix.com.br/blog/10-algoritmos-de-machine-learning)
 
+# Certificate
+
+[IBM Data Science ProfessionalCertificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
+
+[DSA Formação em cientists de dados](https://www.datascienceacademy.com.br/bundles?bundle_id=formacao-cientista-de-dados)
+
+[DSA Python Fundamentos para Análise de dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
+[Microsoft Professional Program in Data Science](https://www.edx.org/microsoft-professional-program-data-science)
+
+[Real-world case studies to jumpstart your career](https://www.edx.org/professional-certificate/harvardx-data-science)
+
+[Udemy SQL](https://www.udemy.com/bancos-de-dados-relacionais-basico-avancado/)
+
+[Udemy Dominando Banco de Dados com MySQL](https://www.udemy.com/curso-mysql/)
+
 # Web scraping
 
 ## To Extract data from Twitter
 
 [Article 1](https://www.ibpad.com.br/blog/comunicacao-digital/capturando-dados-do-twitter-com-r/)
 
+[]
+
 [Article 2](https://squarelabs.com.br/2018/03/09/analise-de-dados-em-tweets-utilizando-r/)
 
 [Article 3](http://data7.blog/mapeando-seguidores-do-twitter-usando-o-r/)
+
+# Creating R packages
+
+[Pacotes R](http://cursos.leg.ufpr.br/prr/capPacR.html#workflow)
+
+[Construindo pacotes](http://www.leg.ufpr.br/~paulojus/embrapa/Rembrapa/Rembrapase37.html)
+
+[PACOTES MIOJO - COMO FAZER UM PACOTE NO R EM 3 MINUTOS](https://www.curso-r.com/blog/2017-09-07-pacote-miojo/)
+
+
+[Criando pacotes no R](http://www.cer.ufscar.br/index.php/seminarios/89-como-criar-pacotes-no-r-04-04-16-13hs-na-sala-de-seminarios-do-des-ufscar)
