@@ -33,6 +33,8 @@ This is a repository for store some useful links for learning R.
 
 [World Economic Outlook Database](https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/index.aspx)
 
+[Consultas livres Recife](http://dados.recife.pe.gov.br/consultas-livres)
+
 # Database tools
 
 [Designer database: Vertabelo](https://www.vertabelo.com)
