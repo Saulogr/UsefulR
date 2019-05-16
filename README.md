@@ -84,3 +84,7 @@ This is a repository for store some useful links for learning R.
 
 
 [Criando pacotes no R](http://www.cer.ufscar.br/index.php/seminarios/89-como-criar-pacotes-no-r-04-04-16-13hs-na-sala-de-seminarios-do-des-ufscar)
+
+# Text mining
+
+[Introduction to tidytext](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html)
