@@ -88,3 +88,13 @@ This is a repository for store some useful links for learning R.
 # Text mining
 
 [Introduction to tidytext](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html)
+
+# Data visualization
+
+[gganimateWiki](https://github.com/thomasp85/gganimate/wiki)
+
+![](https://i0.wp.com/2engenheiros.com/wp-content/uploads/2019/01/b2e_emissoes001.gif?w=840)
+
+![](https://www.datanovia.com/en/wp-content/uploads/dn-tutorials/r-tutorial/images/transition_time.gif)
+
+![](https://github.com/thomasp85/gganimate/blob/master/man/figures/README-unnamed-chunk-4-1.gif)
