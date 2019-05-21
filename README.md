@@ -85,7 +85,7 @@ This is a repository for store some useful links for learning R.
 
 [Criando pacotes no R](http://www.cer.ufscar.br/index.php/seminarios/89-como-criar-pacotes-no-r-04-04-16-13hs-na-sala-de-seminarios-do-des-ufscar)
 
-# Text mining
+# Text mining and natural language processing
 
 [Introduction to tidytext](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html)
 
@@ -98,3 +98,9 @@ This is a repository for store some useful links for learning R.
 ![](https://www.datanovia.com/en/wp-content/uploads/dn-tutorials/r-tutorial/images/transition_time.gif)
 
 ![](https://github.com/thomasp85/gganimate/blob/master/man/figures/README-unnamed-chunk-4-1.gif)
+
+[What is natural language processing](https://medium.com/botsbrasil/o-que-é-o-processamento-de-linguagem-natural-49ece9371cff)
+
+[Spell checker in R](http://www.sumsar.net/blog/2014/12/peter-norvigs-spell-checker-in-two-lines-of-r/)
+
+[Natural language processing IME](https://www.ime.usp.br/~slago/IA-pln.pdf)
