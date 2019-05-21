@@ -106,3 +106,5 @@ This is a repository for store some useful links for learning R.
 [Natural language processing IME](https://www.ime.usp.br/~slago/IA-pln.pdf)
 
 [Correção ortográfica](https://cloud.r-project.org/web/packages/hunspell/vignettes/intro.html#setting_a_language)
+
+[lematização stemming](http://www.nilc.icmc.usp.br/nilc/download/lematizacao_versus_steming.pdf)
