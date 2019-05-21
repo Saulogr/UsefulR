@@ -5,11 +5,11 @@ This is a repository for store some useful links for learning R.
 
 # Open source Books
 
-[CiÍncia de dados com R: introduÁ„o](https://cdr.ibpad.com.br/)
+[Ci√™ncia de dados com R: introdu√ß√£o](https://cdr.ibpad.com.br/)
 
 [R for Data Science](http://r4ds.had.co.nz/)
 
-[IntroduÁ„o a R para VisualizaÁ„o e ApresentaÁ„o de Dados](http://sillasgonzaga.com/material/curso_visualizacao/)
+[Introdu√ß√£o a R para Visualiza√ß√£o e Apresenta√ß√£o de Dados](http://sillasgonzaga.com/material/curso_visualizacao/)
 
 [Deep Learning](http://www.deeplearningbook.org/)
 
@@ -51,9 +51,9 @@ This is a repository for store some useful links for learning R.
 
 [IBM Data Science ProfessionalCertificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
 
-[DSA FormaÁ„o em cientists de dados](https://www.datascienceacademy.com.br/bundles?bundle_id=formacao-cientista-de-dados)
+[DSA Forma√ß√£o em cientists de dados](https://www.datascienceacademy.com.br/bundles?bundle_id=formacao-cientista-de-dados)
 
-[DSA Python Fundamentos para An·lise de dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
+[DSA Python Fundamentos para An√°lise de dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
 [Microsoft Professional Program in Data Science](https://www.edx.org/microsoft-professional-program-data-science)
 
 [Real-world case studies to jumpstart your career](https://www.edx.org/professional-certificate/harvardx-data-science)
@@ -99,8 +99,10 @@ This is a repository for store some useful links for learning R.
 
 ![](https://github.com/thomasp85/gganimate/blob/master/man/figures/README-unnamed-chunk-4-1.gif)
 
-[What is natural language processing](https://medium.com/botsbrasil/o-que-È-o-processamento-de-linguagem-natural-49ece9371cff)
+[What is natural language processing](https://medium.com/botsbrasil/o-que-√©-o-processamento-de-linguagem-natural-49ece9371cff)
 
 [Spell checker in R](http://www.sumsar.net/blog/2014/12/peter-norvigs-spell-checker-in-two-lines-of-r/)
 
 [Natural language processing IME](https://www.ime.usp.br/~slago/IA-pln.pdf)
+
+[Corre√ß√£o ortogr√°fica](https://cloud.r-project.org/web/packages/hunspell/vignettes/intro.html#setting_a_language)
