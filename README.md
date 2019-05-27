@@ -106,3 +106,9 @@ This is a repository for store some useful links for learning R.
 [Natural language processing IME](https://www.ime.usp.br/~slago/IA-pln.pdf)
 
 [Correção ortográfica](https://cloud.r-project.org/web/packages/hunspell/vignettes/intro.html#setting_a_language)
+
+# Imbalanced Data
+
+[Dealing with Imbalanced Data](https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18)
+
+[How to Handle Imbalanced Data: An Overview](https://www.datascience.com/blog/imbalanced-data)
