@@ -89,6 +89,8 @@ This is a repository for store some useful links for learning R.
 
 [Introduction to tidytext](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html)
 
+[lematização stemming](http://www.nilc.icmc.usp.br/nilc/download/lematizacao_versus_steming.pdf)
+
 # Data visualization
 
 [gganimateWiki](https://github.com/thomasp85/gganimate/wiki)
@@ -107,12 +109,11 @@ This is a repository for store some useful links for learning R.
 
 [Correção ortográfica](https://cloud.r-project.org/web/packages/hunspell/vignettes/intro.html#setting_a_language)
 
-<<<<<<< HEAD
+
 # Imbalanced Data
 
 [Dealing with Imbalanced Data](https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18)
 
 [How to Handle Imbalanced Data: An Overview](https://www.datascience.com/blog/imbalanced-data)
-=======
-[lematização stemming](http://www.nilc.icmc.usp.br/nilc/download/lematizacao_versus_steming.pdf)
->>>>>>> aa999d89dfafa743ba3640b48becadff710bd431
+
+
