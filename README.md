@@ -1,4 +1,4 @@
-# Useful links for learning
+﻿# Useful links for learning
 ## Work in progress (This file is still being edited).
 
 This is a repository for store some useful links for learning R.
@@ -116,4 +116,10 @@ This is a repository for store some useful links for learning R.
 
 [How to Handle Imbalanced Data: An Overview](https://www.datascience.com/blog/imbalanced-data)
 
+# Machine Learning
 
+[Statistical Learning: IMPA](http://w3.impa.br/~pcezar/cursos/ae/)
+
+[Statiscal Learning and Kernel Methods](http://w3.impa.br/~pcezar/cursos/ae/material/statistical-learning-and-kernel.pdf)
+
+[Book: The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
