@@ -109,6 +109,11 @@ This is a repository for store some useful links for learning R.
 
 [Correção ortográfica](https://cloud.r-project.org/web/packages/hunspell/vignettes/intro.html#setting_a_language)
 
+## Maps
+
+[Elaborando Mapas no R](http://www.rpubs.com/gomes555/mapas)
+
+[Introdução aos mapas em R](https://rstudio-pubs-static.s3.amazonaws.com/176768_ec7fb4801e3a4772886d61e65885fbdd.html)
 
 # Imbalanced Data
 
