@@ -115,6 +115,8 @@ This is a repository for store some useful links for learning R.
 
 [Introdução aos mapas em R](https://rstudio-pubs-static.s3.amazonaws.com/176768_ec7fb4801e3a4772886d61e65885fbdd.html)
 
+[tmap: get started!](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html)
+
 # Imbalanced Data
 
 [Dealing with Imbalanced Data](https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18)
