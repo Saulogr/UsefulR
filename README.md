@@ -120,6 +120,8 @@ This is a repository for store some useful links for learning R.
 
 [Geocomputation with R](https://geocompr.robinlovelace.net)
 
+[R and Google Map Making](https://rpubs.com/nickbearman/r-google-map-making)
+
 # Imbalanced Data
 
 [Dealing with Imbalanced Data](https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18)
