@@ -29,6 +29,7 @@ This is a repository for store some useful links for learning R.
 
 [Writing R Extensions](https://cran.r-project.org/doc/manuals/r-release/R-exts.html)
 
+
 # Databases
 
 [World Economic Outlook Database](https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/index.aspx)
@@ -116,6 +117,8 @@ This is a repository for store some useful links for learning R.
 [Introdução aos mapas em R](https://rstudio-pubs-static.s3.amazonaws.com/176768_ec7fb4801e3a4772886d61e65885fbdd.html)
 
 [tmap: get started!](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html)
+
+[Geocomputation with R](https://geocompr.robinlovelace.net)
 
 # Imbalanced Data
 
