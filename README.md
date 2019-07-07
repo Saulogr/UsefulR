@@ -135,3 +135,5 @@ This is a repository for store some useful links for learning R.
 [Statiscal Learning and Kernel Methods](http://w3.impa.br/~pcezar/cursos/ae/material/statistical-learning-and-kernel.pdf)
 
 [Book: The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+
+[Tuning Random Forest](https://machinelearningmastery.com/tune-machine-learning-algorithms-in-r/)
