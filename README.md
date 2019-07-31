@@ -48,6 +48,10 @@ This is a repository for store some useful links for learning R.
 
 [Top 10 algorithms](https://www.semantix.com.br/blog/10-algoritmos-de-machine-learning)
 
+[How acoid overfitting - Part 1](http://deeplearningbook.com.br/overfitting-e-regularizacao-parte-1/)
+
+[How acoid overfitting - Part 2](http://deeplearningbook.com.br/overfitting-e-regularizacao-parte-2/)
+
 # Certificate
 
 [IBM Data Science ProfessionalCertificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
