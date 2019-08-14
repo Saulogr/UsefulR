@@ -113,9 +113,7 @@ This is a repository for store some useful links for learning R.
 
 - Networkplots
   - [ggnet2](https://briatte.github.io/ggnet/#edge-labels)
-  
-  - [NetworkAnalysis](9https://kateto.net/netscix2016.html)
-  
+  - [NetworkAnalysis](https://kateto.net/netscix2016.html)
   - [Static and dynamic network](https://kateto.net/network-visualization)
 
 ## Maps
