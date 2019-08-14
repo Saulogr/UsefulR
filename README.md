@@ -96,6 +96,13 @@ This is a repository for store some useful links for learning R.
 
 [lematização stemming](http://www.nilc.icmc.usp.br/nilc/download/lematizacao_versus_steming.pdf)
 
+[What is natural language processing](https://medium.com/botsbrasil/o-que-é-o-processamento-de-linguagem-natural-49ece9371cff)
+
+[Spell checker in R](http://www.sumsar.net/blog/2014/12/peter-norvigs-spell-checker-in-two-lines-of-r/)
+
+[Natural language processing IME](https://www.ime.usp.br/~slago/IA-pln.pdf)
+
+[Correção ortográfica](https://cloud.r-project.org/web/packages/hunspell/vignettes/intro.html#setting_a_language)
 # Data visualization
 
 [gganimateWiki](https://github.com/thomasp85/gganimate/wiki)
@@ -106,13 +113,10 @@ This is a repository for store some useful links for learning R.
 
 ![](https://github.com/thomasp85/gganimate/blob/master/man/figures/README-unnamed-chunk-4-1.gif)
 
-[What is natural language processing](https://medium.com/botsbrasil/o-que-é-o-processamento-de-linguagem-natural-49ece9371cff)
-
-[Spell checker in R](http://www.sumsar.net/blog/2014/12/peter-norvigs-spell-checker-in-two-lines-of-r/)
-
-[Natural language processing IME](https://www.ime.usp.br/~slago/IA-pln.pdf)
-
-[Correção ortográfica](https://cloud.r-project.org/web/packages/hunspell/vignettes/intro.html#setting_a_language)
+- Networkplots
+  - [ggnet2](https://briatte.github.io/ggnet/#edge-labels)
+  - [NetworkAnalysis](9https://kateto.net/netscix2016.html)
+  - [Static and dynamic network](https://kateto.net/network-visualization)
 
 ## Maps
 
