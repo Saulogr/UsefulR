@@ -73,8 +73,6 @@ This is a repository for store some useful links for learning R.
 
 [Article 1](https://www.ibpad.com.br/blog/comunicacao-digital/capturando-dados-do-twitter-com-r/)
 
-[]
-
 [Article 2](https://squarelabs.com.br/2018/03/09/analise-de-dados-em-tweets-utilizando-r/)
 
 [Article 3](http://data7.blog/mapeando-seguidores-do-twitter-usando-o-r/)
@@ -115,7 +113,9 @@ This is a repository for store some useful links for learning R.
 
 - Networkplots
   - [ggnet2](https://briatte.github.io/ggnet/#edge-labels)
+  
   - [NetworkAnalysis](9https://kateto.net/netscix2016.html)
+  
   - [Static and dynamic network](https://kateto.net/network-visualization)
 
 ## Maps
