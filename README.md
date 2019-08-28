@@ -36,6 +36,8 @@ This is a repository for store some useful links for learning R.
 
 [Consultas livres Recife](http://dados.recife.pe.gov.br/consultas-livres)
 
+[Dados do E-commerce](https://www.kaggle.com/olistbr/brazilian-ecommerce#olist_products_dataset.csv)
+
 # Database tools
 
 [Designer database: Vertabelo](https://www.vertabelo.com)
